@@ -1,5 +1,7 @@
 # 🧮 Python GUI Calculator
 
+![Calculator UI](screenshots/calculator-ui.png)
+
 A desktop calculator application built using **Python and Tkinter**.
 
 This project demonstrates basic GUI development, event handling, and arithmetic logic in Python.
